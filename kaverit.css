@@ -1,0 +1,17 @@
+ul {
+    list-style-type: none; /* Poistetaan listan bulletmerkit */
+    padding: 2px; 
+    margin: 0; 
+    margin-top: 20px;
+}
+
+p {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    padding: 2px;
+}
+
+/* ruksi oikeaan reunaan */ 
+::placeholder {
+    text-align: right;
+}
