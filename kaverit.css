@@ -9,6 +9,11 @@ p {
     margin-top: 10px;
     margin-bottom: 5px;
     padding: 2px;
+    
+}
+
+input[type="text"] {
+    width: 80px;
 }
 
 /* ruksi oikeaan reunaan */ 
